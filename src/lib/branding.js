@@ -1,45 +1,45 @@
 const BRANDING = {
-  projectName: "Raretoshi",
+  projectName: "The Bold",
 
-  superUserName: "raretoshi",
+  superUserName: "bold",
 
   urls: {
-    base: "raretoshi.com",
-    www: "www.raretoshi.com",
-    protocol: "https://raretoshi.com",
+    base: "bold.gallery",
+    www: "www.bold.gallery",
+    protocol: "https://bold.gallery",
     external: {
-      twitter: "https://twitter.com/raretoshi",
-      telegram: "https://t.me/raretoshi",
-      blog: "https://blog.raretoshi.com/",
-      facebook: "https://facebook.com/raretoshi",
-			instagram: "https://www.instagram.com/raretoshi/",
-			discord: "https://discord.gg/XUxPs3YnQz",
+      twitter: "https://twitter.com/bold",
+      telegram: "https://t.me/bold",
+      blog: "https://blog.bold.gallery/",
+      facebook: "https://facebook.com/bold",
+      instagram: "https://www.instagram.com/bold/",
+      discord: "https://discord.gg/XUxPs3YnQz",
     },
   },
 
   meta: {
-    title: "Raretoshi",
+    title: "The Bold",
     keywords: "Bitcoin Liquid NFT Art",
     description:
       "Upload, collect, and transact rare digital art on the Liquid Network",
-    image: "https://raretoshi.com/splash.png",
-    url: "https://raretoshi.com/",
+    image: "https://bold.gallery/splash.png",
+    url: "https://bold.gallery/",
 
     twitter: {
       card: "summary_large_image",
-      creator: "@raretoshi",
-      site: "@raretoshi",
+      creator: "@bold",
+      site: "@bold",
     },
 
     artwork: (art) => ({
-      title: `Raretoshi - ${art.title}`,
+      title: `The Bold - ${art.title}`,
       image: `/api/ipfs/${art.filename}`,
-      url: `https://raretoshi.com/a/${art.slug}`,
+      url: `https://bold.gallery/a/${art.slug}`,
     }),
   },
 
   emails: {
-    support: "support@raretoshi.com",
+    support: "support@bold.gallery",
   },
 };
 

@@ -4,7 +4,7 @@
 
 <div class="container mx-auto sm:justify-between mt-10 md:mt-20">
   <div class="mx-auto">
-    <h2 class="mb-10">Raretoshi User Guide</h2>
+    <h2 class="mb-10">The Bold User Guide</h2>
     <div class="guide-content">
       <div class="toc boxShadow">
         <h3>Table of contents</h3>
@@ -43,7 +43,7 @@
           <li>
             <p><a href="#other">OTHER</a></p>
             <ol style="list-style: decimal; padding-left: 30px">
-              <li><a href="#edit-profile">Edit your Raretoshi profile</a></li>
+              <li><a href="#edit-profile">Edit your The Bold profile</a></li>
             </ol>
           </li>
         </ol>
@@ -54,8 +54,8 @@
           <ol style="list-style: decimal; padding-left: 30px">
             <li>
               <p>
-                Go to <a href="https://raretoshi.com/" target="_blank"
-                  >https://raretoshi.com</a
+                Go to <a href="https://bold.gallery/" target="_blank"
+                  >https://bold.gallery</a
                 > and navigate to “Sign in” at the top right corner.
               </p>
               <img
@@ -101,12 +101,12 @@
             </li>
             <li>
               <p>
-                Select “Continue to Raretoshi” or go back to
-                <a href="https://raretoshi.com/login" target="_blank"
-                  >https://raretoshi.com/login</a
+                Select “Continue to The Bold” or go back to
+                <a href="https://bold.gallery/login" target="_blank"
+                  >https://bold.gallery/login</a
                 > and log in with your username and password. The first time you
-                log into your Raretoshi account you will be prompted to create a
-                new wallet.
+                log into your The Bold account you will be prompted to create a new
+                wallet.
               </p>
             </li>
           </ol>
@@ -170,15 +170,15 @@
           <p>
             Artists will need a bit of Liquid Bitcoin (L-BTC) in their wallet to
             mint an NFT (~0.000013 L-BTC or ~0.5 USD at the time of writing).
-            Raretoshi users will also need L-BTC or other Liquid assets (e.g.
+            The Bold users will also need L-BTC or other Liquid assets (e.g.
             USDt Liquid) in their wallets to bid on artwork. Your wallet can be
             funded through a Liquid, Bitcoin on-chain or Lightning transaction.
           </p>
           <p class="font-bold">
             If you choose to fund your account through a Bitcoin on-chain
             address or Lightning invoice, your BTC will automatically convert to
-            L-BTC within Raretoshi. This is probably the most straightforward
-            and easiest way to get L-BTC in your Raretoshi wallet.
+            L-BTC within The Bold. This is probably the most straightforward and
+            easiest way to get L-BTC in your The Bold wallet.
           </p>
           <p>
             Confidential Liquid and bitcoin deposits require one on-chain
@@ -205,10 +205,10 @@
             >.
           </p>
           <p>
-            When selecting “Fund” in your Raretoshi wallet, you will be shown a
+            When selecting “Fund” in your The Bold wallet, you will be shown a
             Liquid non-confidential address in text format and in QR code. You
             can use this non-confidential address to send any Liquid asset
-            including L-BTC, USDt (Liquid), or L-CAD directly to your Raretoshi
+            including L-BTC, USDt (Liquid), or L-CAD directly to your The Bold
             wallet without limit in amount.
           </p>
           <p>
@@ -221,7 +221,7 @@
               target="_blank">Blockstream AQUA</a
             >
             or <a href="https://coinos.io/" target="_blank">Coinos</a> to send Liquid
-            assets to your Raretoshi wallet. If you get an error in your Green or
+            assets to your The Bold wallet. If you get an error in your Green or
             AQUA wallet saying “Non-Confidential addresses not supported” simply
             click on “Confidential” under the Liquid address and you will be shown
             a confidential address and corresponding QR code.
@@ -232,7 +232,7 @@
             don’t see the amount updated in your wallet try refreshing the page.
           </p>
           <p>
-            To speed up your Raretoshi wallet funding process, avoid funding
+            To speed up your The Bold wallet funding process, avoid funding
             delays and be able to bid on artwork with agility, we recommend
             obtaining L-BTC ahead of time. If you want to learn about different
             ways to get L-BTC please take a look at <a
@@ -262,12 +262,12 @@
         <div class="item" id="btc-lightning">
           <h4>3.3 BTC (Lightning)</h4>
           <p>
-            You can also fund your Raretoshi Liquid wallet using Lightning. By
+            You can also fund your The Bold Liquid wallet using Lightning. By
             selecting “Lightning” you will be presented with a Lightning invoice
             with no predefined amount. You can scan this QR code and input the
             amount you want to send. Similar to on-chain funding, your BTC will
             be sent to Coinos and automatically exchanged to L-BTC that will
-            then be deposited in your Raretoshi Liquid wallet. Keep in mind that
+            then be deposited in your The Bold Liquid wallet. Keep in mind that
             there is currently a minimum of 0.00001 btc (~1,000 sats) and a
             maximum of 0.01 BTC with this funding option.
           </p>
@@ -276,7 +276,7 @@
         <div class="item" id="upload-artwork-and-mint-nft">
           <h3>4. UPLOAD ARTWORK & MINT NFT</h3>
           <p>
-            All new accounts in Raretoshi are “Fan” accounts. With this type of
+            All new accounts in The Bold are “Fan” accounts. With this type of
             account you can bid on artwork and trade NTFs in the secondary
             market, but you can’t upload or mint NFTs. These options are
             reserved for users with an artist account. Artists will get their
@@ -285,7 +285,7 @@
           <p>
             To upload their artwork, artists can go to their profile page and
             select “Submit a new artwork.” This option is also available in the
-            “Market” page (https://raretoshi.com/market). Current supported file
+            “Market” page (https://bold.gallery/market). Current supported file
             formats are jpg, png, gif and mp4 up to a size limit of 400MB.
           </p>
           <img class="guide-image" src="/guide/image11.png" alt="guide-image" />
@@ -348,8 +348,8 @@
           <p>
             Once the minting transaction is confirmed, your artwork/NFT will be
             ready to be listed. At this point your artwork is labelled as
-            “Unlisted” so no other Raretoshi user can see it in the platform.
-            You can see it in your profile page but it won’t be publicly visible
+            “Unlisted” so no other The Bold user can see it in the platform. You
+            can see it in your profile page but it won’t be publicly visible
             until listed.
           </p>
           <img class="guide-image" src="/guide/image5.png" alt="guide-image" />
@@ -369,7 +369,7 @@
             list your piece for sale.
           </p>
           <p>
-            1. Go to your Raretoshi profile page. There, you will find all your
+            1. Go to your The Bold profile page. There, you will find all your
             uploaded artwork under the “Creations” tab.
           </p>
           <img class="guide-image" src="/guide/image8.png" alt="guide-image" />
@@ -403,14 +403,14 @@
             3. Royalty Rate: setting a royalty rate (in percentage) is optional.
             This is the percentage that will be paid to the original artist in
             subsequent sales of the NFT. Setting a royalty involves transferring
-            the artwork to a 2-of-2 multisig address with Raretoshi. Our servers
+            the artwork to a 2-of-2 multisig address with The Bold. Our servers
             will only co-sign a transfer if they pay the specified royalty to
             the original artist. This percentage can not be modified afterwards
             by any NFT owner. Once an NFT has a royalty associated it gets
-            locked in Raretoshi to ensure that the original artists receive
-            their royalties, which means the NFT cannot be transferred outside
-            of the platform. If you want your NFT to be transferable outside of
-            Raretoshi wallets, do not add a royalty.
+            locked in The Bold to ensure that the original artists receive their
+            royalties, which means the NFT cannot be transferred outside of the
+            platform. If you want your NFT to be transferable outside of The
+            Bold wallets, do not add a royalty.
           </p>
           <p>
             Once you are happy with your listing conditions you can hit “Submit”
@@ -441,7 +441,7 @@
           <p>
             To ensure auction start and end dates and time, once an artwork is
             listed using this option it is transferred to a 2-of-2 multisig
-            address. The Raretoshi server will co-sign this transaction once the
+            address. The The Bold server will co-sign this transaction once the
             auction is finished and the NFT will be sent to the highest bidder
             and the money to the artist.
           </p>
@@ -455,7 +455,7 @@
         <div class="item" id="what-to-expect-after-listing">
           <h3>6. WHAT TO EXPECT AFTER LISTING</h3>
           <p>
-            After listing your artwork, Raretoshi users will be able to bid in
+            After listing your artwork, The Bold users will be able to bid in
             different ways depending on your listing conditions. If you set a
             price, users will be able to buy out your artwork immediately for
             that price. Users can also make an offer and you’ll see these offers
@@ -467,7 +467,7 @@
           <p>
             If you decide to accept an offer, your wallet will sign the atomic
             swap transaction that will transfer the NFT to the bidder and will
-            deposit the bid money into your Raretoshi wallet. Your artwork will
+            deposit the bid money into your The Bold wallet. Your artwork will
             still be visible to you in your profile page under “Creations” but
             since you no longer are the owner, it won’t show up under the
             “Collection” tab. The artwork page will also show the history of the
@@ -477,11 +477,11 @@
           <img class="guide-image" src="/guide/image20.png" alt="guide-image" />
           <img class="guide-image" src="/guide/image32.png" alt="guide-image" />
           <p>
-            If you decide to list your artwork as an auction, Raretoshi users
+            If you decide to list your artwork as an auction, The Bold users
             will see the time left until the auction goes live, and they will be
             able to bid for your piece until the end of the auction. If you set
             a reserve price (i.e., minimum amount that you will accept for your
-            piece), users will also be able to see this information. Raretoshi
+            piece), users will also be able to see this information. The Bold
             users will also see a countdown timer indicating when the auction
             ends. If someone bids in the last 15 min, this will automatically
             push the auction end time 15 min. Once an auction is finished, the
@@ -493,7 +493,7 @@
           <h3>7. OTHER</h3>
         </div>
         <div class="item" id="edit-profile">
-          <h4>7.1 Edit your Raretoshi profile</h4>
+          <h4>7.1 Edit your The Bold profile</h4>
           <p>1. Go to your profile page</p>
           <img class="guide-image" src="/guide/image11.png" alt="guide-image" />
 
